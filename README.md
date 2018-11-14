@@ -5,5 +5,6 @@
 ### System Architecture
 ![SA](SystemArchitecture.jpg) 
 
-### Android Application
+### Android Application View
+
 ![AA](APP.jpg)
